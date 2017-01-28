@@ -7,3 +7,22 @@ body {
   padding-top: 20px;
   text-align: left;
 }
+
+.main {
+  font-size: 10em;
+}
+
+.sub {
+  font-size: 1.25em;
+}
+
+
+/*body:after {
+  content: "";
+  position: absolute;
+  left: 0px;
+  right:0px;
+  top: 0px;
+  height: 2px;
+  background-color: #25292a;
+}*/
